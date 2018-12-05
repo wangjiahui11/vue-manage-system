@@ -9,11 +9,14 @@
 
 主要代码说明
 ​	│index.html
+
 ​	|
 ​	├─build
 ​	│
+
 ​	├─config
 ​	│
+
 ​	├─src
 ​	│ │　　App.vue
 ​	│ │　　main.js
