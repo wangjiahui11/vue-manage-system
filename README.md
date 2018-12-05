@@ -8,15 +8,13 @@
 （4）浏览器如果正常输出，运行成功
 
 主要代码说明
-​	│index.html
 
+​	│index.html
 ​	|
 ​	├─build
 ​	│
-
 ​	├─config
 ​	│
-
 ​	├─src
 ​	│ │　　App.vue
 ​	│ │　　main.js
